@@ -1,4 +1,4 @@
-(function (){
+(function (window){
   // *******************************
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
@@ -67,4 +67,4 @@ for (var i = 0; i < names.length; i++/* fill in parts of the 'for' loop to loop 
   }
 }
 
-})();
+})(window);
